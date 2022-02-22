@@ -22,10 +22,6 @@ const Index = () => {
                       <Music />
                   </Link>
 
-                  <Link href={'https://www.instagram.com/luca.joos/'}>
-                      <Instagram />
-                  </Link>
-
                   <Link href={'mailto:hello@lucajoos.de'}>
                       <AtSign />
                   </Link>
